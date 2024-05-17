@@ -4,8 +4,7 @@
 
 @section('content')
 <main>
-    <h1>Home page</h1>
-    <h2>Benvenuto {{$user['name']}} {{$user['surname']}}</h2>
+    <h1>Contatti</h1>
 </main>
 
 @endsection
